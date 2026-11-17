@@ -1,0 +1,7 @@
+cluster,type,business_records,average_nearest_business_m,business_categories
+-1,Noise / isolated,1,110.7,clothes
+0,Cluster,32,23.04,"art, bar, cafe, clothes, confectionery, convenience, fast_food, gift, hairdresser, hotel, ice_cream, jewelry, restaurant, tattoo, trade, video"
+1,Cluster,12,36.66,"bank, bar, bicycle, cafe, car_repair, clothes, fast_food, hairdresser, restaurant"
+2,Cluster,7,29.34,"clothes, fast_food, fitness_centre, hotel, restaurant, shoes"
+3,Cluster,7,27.97,"convenience, fast_food, restaurant, tobacco"
+4,Cluster,8,43.5,"bank, cafe, fast_food, restaurant, supermarket, tobacco"

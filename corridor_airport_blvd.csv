@@ -1,0 +1,270 @@
+name,category,latitude,longitude,osm_shop,osm_amenity,osm_office,osm_tourism,osm_leisure,osm_craft,osm_healthcare,osm_club,osm_public_transport,osm_building,osm_brand,osm_operator,osm_website,corridor,major_activity,data_source,retrieved_utc,cluster,nearest_business_m
+,stop position,30.298008999999993,-97.7092531,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,9.053490935116063
+,stop position,30.3234376,-97.7154145,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,58.24967889897555
+,stop position,30.324198499999994,-97.71570230000002,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,39.474997748514234
+Austin Fire Station Number 10,fire station,30.298599999999997,-97.7092,,fire_station,,,,,,,,,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,19.21260278594024
+The Omelettry,restaurant,30.3067572,-97.7154666,,restaurant,,,,,,,,,,,http://www.theomelettry.com,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,16.709921004791898
+Prosper Center – North,association,30.323661599999994,-97.7159631,,,association,,,,,,,,,,https://foundcom.org/prosper-centers/,Airport Boulevard,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,58.24967889897555
+Shell,fuel,30.3077757,-97.7154407,,fuel,,,,,,,,,Shell,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,27.144329375600705
+Mrs. Johnson's Bakery,bakery,30.310098999999994,-97.715232,bakery,,,,,,,,,,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,51.902946800218814
+,vacant,30.316880299999994,-97.7140493,,vacant,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,27.15686617559041
+,stop position,30.2980724,-97.7076428,,,,,,,,,stop_position,,,Capital Metropolitan Transportation Authority,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,19.32832706057012
+,drinking water,30.29431569999999,-97.7072075,,drinking_water,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,6.9173081882593594
+East Side Pies,restaurant,30.3148694,-97.7153301,,restaurant,,,,,,,,,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,32.81393121751875
+Barfly's,bar,30.31671770000001,-97.7142604,,bar,,,,,,,,,,,http://www.barflysaustin.com/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,27.15686617559041
+Top Drawer Thrift Store,second hand,30.3146447,-97.7151085,second_hand,,,,,,,,,,,,https://www.topdrawerthrift.org/,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,32.81393121751875
+Casey's Snowballs,restaurant,30.312052199999997,-97.7149517,,restaurant,,,,,,,,,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,27.04879493103944
+St. George's Episcopal Church,place of worship,30.3001672,-97.715464,,place_of_worship,,,,,,,,,,,https://www.sgchurch.org/,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,232.4243906961079
+CITGO Brew,convenience,30.288926099999998,-97.7077235,convenience,,,,,,,,,,,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,21.439606405995104
+,fountain,30.297507799999995,-97.707827,,fountain,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,24.512945901513607
+United Auto Group,car,30.324179699999984,-97.71611300000002,car,,,,,,,,,,,,https://www.unitedcarfinance.com/,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,39.474997748514234
+,picnic table,30.296930099999987,-97.7102245,,,,,picnic_table,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,14.094406613668163
+,waste disposal,30.2965296,-97.7096627,,waste_disposal,,,,,,,,,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.58522662926022
+,picnic table,30.295842899999993,-97.7085291,,,,,picnic_table,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.3215786044150555
+,picnic table,30.29580410000001,-97.7085265,,,,,picnic_table,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.3215786044150555
+,bench,30.295893299999985,-97.7088488,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,8.397930830445265
+,bench,30.295777699999995,-97.7088321,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,11.067902355185625
+,bench,30.295915799999992,-97.7086649,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,11.14903743704025
+,bench,30.295800200000002,-97.7086503,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,10.621656981106447
+,drinking water,30.2958542,-97.7090063,,drinking_water,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.891893281809387
+,artwork,30.294476699999997,-97.7082661,,,,artwork,,,,,,,,,,Airport Boulevard,Accommodation & tourism,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,6.031168421762962
+,artwork,30.294530900000005,-97.7082637,,,,artwork,,,,,,,,,,Airport Boulevard,Accommodation & tourism,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,6.031168421762962
+,vending machine,30.294504299999996,-97.7086606,,vending_machine,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,38.0003125059167
+,picnic table,30.294721500000005,-97.70914520000001,,,,,picnic_table,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,31.388756339575853
+,picnic table,30.2950023,-97.7091117,,,,,picnic_table,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,31.388756339575853
+,vending machine,30.297597100000004,-97.7102427,,vending_machine,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,35.44923309636972
+,vending machine,30.294309600000002,-97.7072792,,vending_machine,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,3.6866099905221916
+,waste basket,30.294280499999992,-97.7072976,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,1.0976682860695548
+,waste basket,30.294278999999992,-97.7073089,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,1.0976682860695548
+,stop position,30.316582400000005,-97.7138952,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,12.862254478352268
+,bench,30.297076700000005,-97.707143,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.6368296700364064
+Highland Nails & Spa,beauty,30.325120899999995,-97.7151095,beauty,,,,,,,,,,,,,Airport Boulevard,Health & care,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,14.372430087385295
+My Vinyasa Practice,fitness centre,30.325117800000005,-97.7152592,,,,,fitness_centre,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,14.372430087385295
+The Phở Vietnamese Kitchen,restaurant,30.323900899999998,-97.7142123,,restaurant,,,,,,,,,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,43.01644919718885
+,bicycle parking,30.297014799999992,-97.707229,,bicycle_parking,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,9.568866129437195
+,bench,30.297100300000007,-97.7072177,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.149011219504415
+,bench,30.297164100000003,-97.7072269,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.149011219504415
+,bench,30.297303300000003,-97.7072284,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,5.7715461980012535
+,waste disposal,30.297226799999986,-97.7079025,,waste_disposal,,,,,,,,,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.523486971808386
+,bench,30.29733049999999,-97.7071772,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,5.7715461980012535
+,parking entrance,30.324891999999988,-97.7148906,,parking_entrance,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,30.261976084075275
+True Blue Tattoo,tattoo,30.30345649999999,-97.715624,tattoo,,,,,,,,,,,,,Airport Boulevard,Health & care,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,51.35714716553045
+Herc Rentals,plant hire,30.286966499999988,-97.7057127,plant_hire,,,,,,,,,,Herc Rentals,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,162.02242926540058
+Kick Butt Coffee,cafe,30.322360299999996,-97.7139215,,cafe,,,,,,,,,,,https://kickbuttcoffee.com/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,37.56974277580793
+,parking entrance,30.31506040000001,-97.7139141,,parking_entrance,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,27.87524411748457
+,parking entrance,30.314743499999995,-97.71365000000002,,parking_entrance,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,42.14736407803138
+,parking entrance,30.316721699999988,-97.7145998,,parking_entrance,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,32.19931696556099
+Fox Fox Studio,architect,30.3159156,-97.715246,,,architect,,,,,,,,,,,Airport Boulevard,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,33.98956407442144
+Specht Novak,architect,30.31562129999999,-97.7153417,,,architect,,,,,,,,,,,Airport Boulevard,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,33.98956407442144
+SHED Barber and Supply - Hyde Park,hairdresser,30.306195199999998,-97.7150494,hairdresser,,,,,,,,,,,,https://shedbarber.com,Airport Boulevard,Health & care,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,26.656651100416095
+,stop position,30.298416400000004,-97.7093619,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,8.541610595776419
+,waste basket,30.29844069999999,-97.7092775,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.4309766786142086
+,stop position,30.321925399999998,-97.7141304,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,32.360889880191166
+,stop position,30.321724199999995,-97.7138868,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,32.360889880191166
+,stop position,30.297935799999998,-97.7077673,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,19.32832706057012
+,stop position,30.30002929999999,-97.7122674,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,6,7.251615876856787
+,stop position,30.3003174,-97.7123893,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,6,6.225792857511151
+Stepstone Credit,money lender,30.2894443,-97.7067275,money_lender,,,,,,,,,,,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,24.149232733058795
+,stop position,30.31849040000001,-97.7129538,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,12.484211709827306
+,waste basket,30.318457700000007,-97.7128263,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,2.011268864345496
+,bench,30.318441900000003,-97.7128365,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,2.011268864345496
+,waste basket,30.31657350000001,-97.7137616,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,2.103834842724791
+,bench,30.3165556,-97.7137545,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,2.103834842724791
+,stop position,30.317864199999995,-97.7132704,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,13.032423792432615
+,waste basket,30.3178826,-97.7134072,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,4.318819792756596
+,stop position,30.3148276,-97.7147261,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,13.26676222976775
+,stop position,30.314069900000007,-97.7150184,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,14.893045157788183
+,stop position,30.312937399999992,-97.7152829,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,12.270896800058633
+,stop position,30.310966700000005,-97.71547000000001,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,30.67061870516585
+,stop position,30.311572600000005,-97.71541980000002,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,12.234843650284718
+,waste basket,30.311580800000005,-97.7155469,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,12.234843650284718
+,stop position,30.308808499999994,-97.7156296,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,12.362220897734653
+,waste basket,30.30879629999999,-97.7155016,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,1.3979331034262443
+,bench,30.3087839,-97.715504,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,1.3979331034262443
+,stop position,30.305113900000006,-97.7159129,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,12.804431656046534
+,waste basket,30.305142500000002,-97.7160421,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,2.7495237650494757
+,stop position,30.3053731,-97.7158908,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,11.38661410562919
+,waste basket,30.305367,-97.7157724,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,2.5395833300432713
+,bench,30.3003743,-97.7123321,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,6,2.571450670494179
+,bench,30.299967099999993,-97.7123276,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,6,2.3290388647760962
+,waste basket,30.299972299999997,-97.7123041,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,6,2.3290388647760962
+,waste basket,30.300366,-97.7123571,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,6,2.571450670494179
+,waste basket,30.297981599999993,-97.7093419,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.732513381628486
+,stop position,30.288139899999994,-97.7071651,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,12.319457437815695
+,bench,30.288150599999998,-97.7072954,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,2.4931619976230532
+,waste basket,30.288128300000007,-97.7072927,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,2.4931619976230532
+,stop position,30.2890712,-97.70710740000001,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,10.978606974386903
+,waste basket,30.289092300000004,-97.7069957,,waste_basket,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,2.1060233934147665
+,bench,30.2890738,-97.706991,,bench,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,2.1060233934147665
+,stop position,30.289227600000007,-97.7067108,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,24.149232733058795
+,stop position,30.2891699,-97.7078334,,,,,,,,,stop_position,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,29.090604614965518
+Figure 8 Coffee Purveyors,cafe,30.3066616,-97.7153323,,cafe,,,,,,,,,,,https://figure8coffeepurveyors.com/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,16.709921004791898
+Finney's Books,books,30.288595900000004,-97.7065504,books,,,,,,,,,,,,https://www.finneysbooks.com/,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,44.903817784159145
+Lammes Candies,confectionery,30.315827264892736,-97.71466160009442,confectionery,,,,,,,,,yes,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,56.94980411849173
+Ridgetop Elementary School,school,30.311532350844868,-97.7164140214535,,school,,,,,,,,,,Austin Independent School District,,Airport Boulevard,Education & culture,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,29.626359236513363
+,parking,30.311511314119976,-97.7160671434015,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,33.38024622702876
+,other,30.311798173292853,-97.71639308431658,,,,,,,,,,school,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,29.626359236513363
+,parking,30.311283280353535,-97.71691208341802,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,55.25326497982111
+,pitch,30.297028199787785,-97.70941622651648,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.33086688030934
+Patterson Neighborhood Pool,swimming pool,30.296805250042002,-97.71019914997667,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,14.094406613668163
+,pitch,30.297277699788324,-97.71051062655324,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,14.465105168998807
+"Burnett ""Blondie"" Pharr Tennis Center",sports centre,30.295958746610253,-97.7088051464215,,,,,sports_centre,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,8.397930830445265
+,pitch,30.29654399978636,-97.70897477648478,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.29527454334397
+,pitch,30.297358399789942,-97.70984712664655,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.30609957136288
+Patterson Neighborhood Park,park,30.296208644877343,-97.71031616186832,,,,,park,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,67.27341564206374
+,parking,30.296700192580317,-97.7095416998753,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,22.243645427662962
+Quality Seafood,seafood,30.31816429679044,-97.71228265369437,seafood,restaurant,,,,,,,,yes,,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,61.474036193692285
+Spec's,alcohol,30.322500848944927,-97.713565553388,alcohol,,,,,,,,,yes,Spec's,Sepc's,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,37.56974277580793
+Wendy's,fast food,30.321161350060933,-97.71413829822615,,fast_food,,,,,,,,yes,Wendy's,,https://locations.wendys.com/united-states/tx/austin/5752-airport-blvd,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,46.02421290783317
+Panda Express,fast food,30.32149850002571,-97.71441644636799,,fast_food,,,,,,,,yes,Panda Express,,https://www.pandaexpress.com/userlocation/1319/tx/austin/5764-airport-blvd,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,46.02421290783317
+,other,30.322181356625407,-97.71529308530612,,,,,,,,,,commercial,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,113.33782725954991
+Travis County Sheriff's Office,government,30.317532051183793,-97.71242907293508,,,government,,,,,,,yes,,,,Airport Boulevard,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,71.6935813345352
+Travis County Clerk,government,30.316101701330645,-97.71284192148522,,,government,,,,,,,yes,,Travis County,https://www.traviscountyclerk.org/,Airport Boulevard,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,60.38110776216013
+,car,30.28658378011103,-97.70734086770199,car,,,,,,,,,,,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,162.02242926540058
+Mueller Northwest Greenway,park,30.302392619344282,-97.70886089351772,,,,,park,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,328.94235013493807
+In-N-Out Burger,fast food,30.304317962360717,-97.71566562484043,,fast_food,,,,,,,,retail,In-N-Out Burger,,https://locations.in-n-out.com/290,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,35.357588666611285
+,parking,30.30422635681544,-97.71531293511708,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,35.357588666611285
+Mueller Lake Park,park,30.29621490801451,-97.70543534058993,,,,,park,,,,,,,Mueller Community Associations,https://muelleraustin.com/park-events/,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,189.90084499063795
+Mueller Southwest Greenway,park,30.290904061981905,-97.7069528434174,,,,,park,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,32.184318637849046
+Dream Spa,massage,30.314162689651344,-97.71443187617159,massage,,,,,,,,,yes,,,,Airport Boulevard,Health & care,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,17.733883700240426
+Ridgetop Church,place of worship,30.31311782175914,-97.71676231672609,,place_of_worship,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,92.66831187349388
+CrossFit City Limits,fitness centre,30.314560834415353,-97.71653611130299,,,,,fitness_centre,,,,,yes,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,120.74353947934266
+Austin Pets Alive! Thrift,second hand,30.312576680695518,-97.7160281454421,second_hand,,,,,,,,,yes,Austin Pets Alive!,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,82.01541814179099
+,other,30.30596331030087,-97.71511982906769,,,,,,,,,,retail,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,26.656651100416095
+Lazarus Brewing,pub,30.308003450217257,-97.71533891430124,,pub,,,,,,,,yes,,,https://www.lazarusbrewing.com,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,16.465419291976755
+Tyson's Tacos,fast food,30.309632275357444,-97.7152398955786,,fast_food,,,,,,,,yes,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,51.902946800218814
+1 Stop Food Mart,convenience,30.312293848150738,-97.71498404061339,convenience,,,,,,,,,yes,,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,27.04879493103944
+JewBoy Burgers,restaurant,30.312718000014804,-97.71502120000945,,restaurant,,,,,,,,yes,,,https://jewboyburgers.com/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,24.562432708920415
+Rosé Gosé,restaurant,30.313126961824725,-97.7147603951623,,restaurant,,,,,,,,yes,,,https://rosegose.us/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,45.87714841512827
+,shelter,30.30534865000087,-97.71575665000029,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,2.5395833300432713
+,car rental,30.29806450058645,-97.7096985578216,,car_rental,,,,,,,,yes,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,33.76221484605412
+Iglesia de Cristo,place of worship,30.299892971928642,-97.71069331762565,,place_of_worship,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,151.87856324994138
+Austin Fire Station 14,fire station,30.29890693374971,-97.70936727068563,,fire_station,,,,,,,,fire_station,,Austin Fire Department,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,37.71888843628834
+,shelter,30.29581480223259,-97.70898362605878,,shelter,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.891893281809387
+7-Eleven,convenience,30.28940940025077,-97.70761497271697,convenience,,,,,,,,,yes,7-Eleven,,https://www.7-eleven.com/locations/tx/austin/3848-airport-blvd-36680,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,31.18142134487005
+Shell,fuel,30.28891740003175,-97.70683339999684,,fuel,,,,,,,,roof,Shell,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,23.052631521052543
+,other,30.289680360494653,-97.70664525305324,,,,,,,,,,retail,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,27.410910510595286
+Citgo,fuel,30.28888210000305,-97.70750609999861,,fuel,,,,,,,,roof,Citgo,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,21.439606405995104
+,parking,30.297156469108273,-97.70767187431537,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,1.9533765890873902
+,parking,30.296562800329962,-97.70751687658714,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,14.441707362618146
+,outdoor seating,30.296479551190878,-97.70775796338391,,,,,outdoor_seating,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.659951858892176
+Highland Greenway Park,park,30.323246236431885,-97.7129534979858,,,,,park,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,93.88785947018881
+Travis County North Campus,government,30.31520285013412,-97.71415305695272,,,government,,,,,,,yes,,,,Airport Boulevard,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,27.87524411748457
+,college,30.325947553589412,-97.7128509546536,,college,,,,,,,,,,,,Airport Boulevard,Education & culture,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,190.02970414302675
+,pitch,30.295845500034446,-97.7087476999817,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,10.621656981106447
+,pitch,30.294956349537365,-97.70873860043886,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,36.183898652272475
+Patterson Park Community Garden,garden,30.295389120072247,-97.70861137925269,,,,,garden,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,24.989167053189906
+7-Eleven,convenience,30.321154600063828,-97.71487009999032,convenience,,,,,,,,,yes,7-Eleven,,https://www.7-eleven.com/locations/tx/austin/614-e-koenig-lane-38104,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,31.638568828790287
+7-Eleven,fuel,30.320883450089138,-97.71477019999335,,fuel,,,,,,,,roof,7-Eleven,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,5,31.638568828790287
+,pitch,30.297295199823196,-97.71036133023081,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,14.465105168998807
+,parking space,30.29663205000889,-97.70981565000032,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.58522662926022
+,pitch,30.29656645002022,-97.70878599998399,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.29527454334397
+,pitch,30.297049499984993,-97.70922689654797,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.33086688030934
+,bleachers,30.297145100001938,-97.70964879999987,,,,,bleachers,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,25.836941026584515
+,pitch,30.297378799753382,-97.70965792307688,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.034754370962904
+,pitch,30.297399100052974,-97.70947155343906,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.034754370962904
+,pitch,30.297419450018676,-97.70928089998529,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,18.44354453192325
+,pitch,30.295418650018423,-97.70886940000482,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,24.989167053189906
+,parking,30.31635175094978,-97.71340030161862,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,40.86240646657414
+,shelter,30.296578300653895,-97.70773811607216,,shelter,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,3.5559760237689946
+,shelter,30.296546500471003,-97.70773419755231,,shelter,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,3.5559760237689946
+,shelter,30.296512850434347,-97.70772849383911,,shelter,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,3.781572512919808
+,college,30.322822551247757,-97.71210738447422,,college,,,,,,,,,,,,Airport Boulevard,Education & culture,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,93.88785947018881
+,parking space,30.29391999698831,-97.70718659973167,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,41.47858186154874
+,parking space,30.291146054376412,-97.70676894234644,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,32.184318637849046
+,parking space,30.297311848405474,-97.7075243883278,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.178330300396319
+,parking space,30.297315299523596,-97.70748105154276,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.178330300396319
+,parking space,30.29709280023886,-97.70741277407679,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,6.711325084939925
+,parking space,30.29715289836165,-97.7074192340264,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,6.711325084939925
+,parking space,30.29730690000102,-97.7075874499995,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.6816162183616368
+,parking space,30.29730439981046,-97.70761523071361,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.6816162183616368
+,parking space,30.297302250001113,-97.7076437999995,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7502260191033647
+,parking space,30.29729984862337,-97.7076723105097,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7502260191033647
+,parking space,30.297297601031183,-97.70770090430227,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7565812472326883
+,parking space,30.297282150488883,-97.70787099938133,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.966625272800668
+,parking space,30.297285049829046,-97.7078402825685,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.67374792810317
+,parking space,30.29728770052463,-97.70781260303798,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.612094332135447
+,parking space,30.297290149450024,-97.70778554419446,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.612094332135447
+,parking space,30.29729284976942,-97.70775757654958,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7018498202693575
+,parking space,30.29718739978722,-97.70791422814193,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,4.523486971808386
+,parking space,30.29713564957206,-97.70790885637173,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.424876626951291
+,parking space,30.297113949979206,-97.70790634760458,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.424876626951291
+,parking space,30.297091148253546,-97.70790372284017,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.5479285754279166
+,parking space,30.297065901330352,-97.70790048444132,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.824494109998148
+,parking space,30.297015148609347,-97.70789415888095,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.6497189368298817
+,parking space,30.296991449291937,-97.70789127801305,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.6448355678426574
+,parking space,30.296967798960598,-97.70788834446485,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.6448355678426574
+,parking space,30.29714890002481,-97.70776315222291,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.4250328957120333
+,parking space,30.297127198957778,-97.70776064417296,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.4250328957120333
+,parking space,30.297104050244688,-97.70775777448902,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.5887223482668222
+,parking space,30.29707915000286,-97.7077546499997,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7849832120771048
+,parking space,30.29708565002696,-97.7076837024402,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7789157670363123
+,parking space,30.297110500245942,-97.70768677461551,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.5889096889543897
+,parking space,30.297133649122145,-97.70768966082225,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.430656201657136
+,parking space,30.29715539983071,-97.70769218256979,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,1.9533765890873902
+,parking space,30.297100750026964,-97.70753980244021,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.7736490449691575
+,parking space,30.297125550027307,-97.70754290247449,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.5888699183659805
+,parking space,30.29714869931513,-97.70754578037099,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.436212917367104
+,parking space,30.297170500046562,-97.70754830442628,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.436212917367104
+,parking space,30.2970032506061,-97.70752506107169,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.807953067915214
+,parking space,30.2970283502453,-97.70752827454565,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.633143282856769
+,parking space,30.297051899127375,-97.70753116136116,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.633143282856769
+,parking,30.298997515427175,-97.70813310196866,,parking,,,,,,,,yes,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,33.84863419384076
+Conscious Cravings,restaurant,30.296505600234852,-97.70765192360587,,restaurant,,,,,,,,yes,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.39547534655398
+Hippy Eats,restaurant,30.296429600002416,-97.70769964999968,,restaurant,,,,,,,,yes,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.88636011464229
+Streamway Coffee,cafe,30.29640555000559,-97.70778294999955,,cafe,,,,,,,,yes,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,8.43279104403305
+The Stone House,restaurant,30.296667050000444,-97.70771714897818,,restaurant,,,,,,,,yes,,,,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.780217030707273
+Eggman,restaurant,30.296615150001177,-97.70766279999903,,restaurant,,,,,,,,,,,https://eggmanatx.com,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,7.780217030707273
+,parking,30.32361785096393,-97.71390679671578,,parking,,,,,,,,yes,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,43.01644919718885
+,track,30.310763920599097,-97.71661145910927,,,,,track,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,64.55912698094433
+,parking,30.323947843469412,-97.71497424900525,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,2.7667223917264834
+,parking space,30.32395740005043,-97.71480655470495,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,6.601670449162716
+,parking space,30.32395565005705,-97.7148753053026,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,6.601670449162716
+,parking space,30.32395220000464,-97.71501619999968,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,4.055565133199912
+,parking space,30.323953850261116,-97.71494627609162,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,2.7667223917264834
+,parking,30.324763640736627,-97.71516862065654,,parking,,,,,,,,yes,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,30.261976084075275
+,parking,30.325202299125667,-97.71557718627271,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,0.5468636122844557
+,parking space,30.325212199211595,-97.71550651924254,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,6.682161016044101
+,parking space,30.32521499975814,-97.71543697490449,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,6.682161016044101
+,parking space,30.325217400004725,-97.71536724999969,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,6.697551550983396
+,parking space,30.325207146296044,-97.71557622234926,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,0.5468636122844557
+,swimming pool,30.324389950010364,-97.7150919499993,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,42.19911460733356
+,parking space,30.32479429931392,-97.71445832985918,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,3.259582938302222
+,parking space,30.324765000003328,-97.71445724999974,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,3.259582938302222
+,parking space,30.324673650011782,-97.71445385085518,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,3.3709525667461655
+,parking space,30.324734850231845,-97.7144561232467,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,3.35424550511167
+,parking space,30.32470395023186,-97.7144549732459,,parking_space,,,,,,,,,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,3.3709525667461655
+Lot Z,parking,30.32475460014223,-97.71426864502243,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,1,18.127855078089162
+,parking,30.315119950442188,-97.71359875951694,,parking,,,,,,,,yes,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,30.985476676902906
+,swimming pool,30.316867450116717,-97.71488966068713,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,32.19931696556099
+7-Eleven,fuel,30.28942290001672,-97.70793934999428,,fuel,,,,,,,,yes,7-Eleven,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,4,29.91512053313471
+,swimming pool,30.304377246381094,-97.71712372917206,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,48.97946843211521
+,swimming pool,30.30417359495221,-97.71667133488248,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,48.97946843211521
+Jim's Discount Auto Center,car,30.315819031426823,-97.71579102592248,car,,,,,,,,,,,,,Airport Boulevard,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,48.411511658693044
+,swimming pool,30.305060651559515,-97.71751310854205,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,84.68750511656243
+,shelter,30.29842215000126,-97.70926409999892,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.4309766786142086
+P. Thai's Khao Man Gai & Noodles,restaurant,30.308746800240193,-97.71532186774262,,restaurant,,,,,,,,yes,,,https://p-thai.com/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,17.96416549053047
+,swimming pool,30.301322699311513,-97.71344657818938,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,149.1870437397
+,swimming pool,30.299016798638284,-97.70848496112241,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,33.84863419384076
+,swimming pool,30.310124150257607,-97.71606722617365,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,80.22654657083946
+,swimming pool,30.310614450005037,-97.71513705000493,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,19.889325191347666
+,parking,30.310755181372205,-97.71526493453842,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,19.889325191347666
+,swimming pool,30.307680400003047,-97.71478560000003,,,,,swimming_pool,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,46.18129441884431
+,parking,30.30814415481507,-97.71525628561855,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,17.541512536868066
+,parking,30.3071756678383,-97.71524882736118,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,28.904620893959397
+,parking,30.307300852068508,-97.71551270848845,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,28.904620893959397
+Exxon,fuel,30.303900400044075,-97.71577175381134,,fuel,,,,,,,,roof,Exxon,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,47.535522420800774
+,parking,30.30538399150297,-97.71423154640978,,parking,,,,,,,,,,,,Airport Boulevard,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,-1,106.87088240031522
+,shelter,30.31791870000149,-97.7133906000013,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,7,4.318819792756596
+,shelter,30.31476200006827,-97.71461065684223,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,13.26676222976775
+,shelter,30.31411520006358,-97.71516440630633,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,14.893045157788183
+,shelter,30.312902700022423,-97.7151615522085,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,12.270896800058633
+,shelter,30.305166800000414,-97.71603680000025,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,2.7495237650494757
+,shelter,30.298003850310096,-97.70935398131603,,shelter,,,,,,,,roof,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,2.732513381628486
+Komé,restaurant,30.314018579215126,-97.714511016239,,restaurant,,,,,,,,yes,,,https://www.kome-austin.com/,Airport Boulevard,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,17.733883700240426
+,other,30.314383302225032,-97.7144193201469,,,,,,,,,,commercial,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,15.579957398594889
+,other,30.314514250852394,-97.71436158208368,,,,,,,,,,commercial,,,,Airport Boulevard,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,11.19773106174924
+Moontower Dental,dentist,30.31460885039762,-97.71432158585128,,dentist,,,,,dentist,,,yes,,,,Airport Boulevard,Health & care,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,3,11.19773106174924
+,shelter,30.307951400941135,-97.71517833995833,,shelter,,,,,,,,yes,,,,Airport Boulevard,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,2.3520110081575005
+,outdoor seating,30.307932135113884,-97.7151682260307,,,,,outdoor_seating,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,2,2.3520110081575005
+,pitch,30.29552631039037,-97.70997548415752,,,,,pitch,,,,,,,,,Airport Boulevard,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:43:55.443842+00:00,0,82.62207769467058

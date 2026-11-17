@@ -1,0 +1,116 @@
+cluster,business_name,category,nearest_road,distance_to_road_m
+2,Soup Peddler,restaurant,West Mary Street,31.96
+2,Polvo's,restaurant,South 1st Street,22.82
+2,Lenoir,restaurant,South 1st Street,21.01
+2,First Food Mart,supermarket,South 1st Street,30.65
+2,Capitol Cleaners,dry_cleaning,West Elizabeth Street,28.95
+2,El Mercado,restaurant,South 1st Street,16.7
+2,Austin Vape & Smoke,e-cigarette,West Monroe Street,9.51
+2,Hu La Hu Market 2,convenience,South 1st Street,30.84
+2,Once Over Coffee Bar,cafe,South 1st Street,42.59
+2,Resistencia Bookstore,books,West Annie Street,14.05
+2,Rivers & Reefs Pet Center,pet,South 1st Street,18.4
+2,Conscious cravings,fast_food,South 1st Street,31.89
+2,Holy cacao,cafe,South 1st Street,32.25
+2,Look + See Vision Care,optician,South 1st Street,38.29
+2,Fresas,restaurant,West Milton Street,54.18
+2,American Drifter,clothes,South 1st Street,22.83
+2,Blue Suede,shoes,South 1st Street,18.45
+2,Texas Custom Boots,shoes,West Monroe Street,16.36
+2,El Primo,fast_food,South 1st Street,12.4
+2,Nômadé Cocina,restaurant,West Monroe Street,19.16
+2,Dama Botanicals,tobacco,South 1st Street,33.14
+2,Royalty’s BarberShop,hairdresser,West Live Oak Street,27.99
+2,Sightseer Coffee Bar,cafe,South 1st Street,13.42
+2,Sugar Mama’s Bakeshop,bakery,South 1st Street,13.23
+2,De Nada,restaurant,South 1st Street,18.76
+2,Bloomers and Frocks,clothes,South 1st Street,25.36
+2,Mod Bikes,bicycle,South 1st Street,30.22
+2,Don's Automotive,car_repair,South 1st Street,28.71
+2,La Patisserie,bakery,West Annie Street,19.75
+2,Roadhouse Relics Gallery,gallery,West Annie Street,14.31
+2,Dovetail Pizza and Bar,restaurant,South 1st Street,21.04
+2,Bouldin Creek Cafe,restaurant,West Mary Street,20.3
+2,Gully Cat Tattoo,clothes,South 1st Street,20.24
+2,Maaribu,furniture,South 1st Street,22.12
+2,1417 French Bistro,restaurant,West Elizabeth Street,20.59
+2,Elizabeth Street Cafe,restaurant,West Elizabeth Street,15.34
+2,Art For The People,art,South 1st Street,28.23
+2,Dolce Neve Gelato,ice_cream,South 1st Street,24.93
+2,American June,clothes,West Monroe Street,27.05
+0,,convenience,South Congress Avenue,22.63
+0,Perla's,restaurant,West Gibson Street,18.58
+0,,bar,South Congress Avenue,23.36
+0,June's All Day,restaurant,West Annie Street,17.35
+0,Woodland,restaurant,South Congress Avenue,23.33
+0,Vespaio,restaurant,West Monroe Street,16.92
+0,Vulcan Video,video,West Elizabeth Street,23.06
+0,Home Slice Pizza,restaurant,South Congress Avenue,21.23
+0,More Home Slice Pizza,restaurant,East Elizabeth Street,16.91
+0,Yard Dog,art,South Congress Avenue,25.31
+0,Hopdoddy Burger Bar,fast_food,South Congress Avenue,29.09
+0,Lucky Robot,restaurant,The Circle,12.53
+0,Southside Tattoo,tattoo,South Congress Avenue,19.92
+0,Botticelli's,restaurant,South Congress Avenue,25.28
+0,Madewell,clothes,South Congress Avenue,23.44
+0,Avenue,hairdresser,South Congress Avenue,22.64
+0,Big Top,confectionery,South Congress Avenue,22.62
+0,CoStar,clothes,South Congress Avenue,22.47
+0,"Monkey See, Monkey Do",gift,South Congress Avenue,22.28
+0,Paper Work,art,South Congress Avenue,23.42
+0,Kendra Scott,jewelry,West Gibson Street,28.92
+0,Central Standard,restaurant,South Congress Avenue,17.77
+0,feathers boutique,clothes,West Milton Street,10.91
+0,Mañana,cafe,East Monroe Street,10.46
+0,,clothes,East Gibson Street,15.15
+0,,cafe,West Monroe Street,25.3
+0,South Congress Hotel,hotel,South Congress Avenue,36.49
+0,Amy's Ice Creams,ice_cream,The Circle,9.29
+0,Jo's Coffee,cafe,West James Street,22.02
+0,Guero's Taco Bar,restaurant,West Elizabeth Street,14.78
+0,Kimber Modern Hotel,hotel,The Circle,17.3
+0,The Continental Club,bar,The Circle,20.21
+0,John Deere,trade,East Gibson Street,20.54
+4,Wells Fargo,bank,South Congress Avenue,29.12
+4,Ace Mart Restaurant Supply,doityourself,South Congress Avenue,196.52
+4,O'Reilly Auto Parts,car_parts,South Congress Avenue,190.42
+4,Goodwill,second_hand,South Congress Avenue,203.1
+4,H-E-B Pharmacy,pharmacy,West Oltorf Street,38.61
+4,Domino's,fast_food,South Congress Avenue,73.37
+4,True Texas BBQ,restaurant,West Oltorf Street,35.57
+4,The UPS Store,copyshop,South Congress Avenue,119.77
+4,McDonald's,fast_food,South Congress Avenue,203.79
+4,Taco Bell,fast_food,South Congress Avenue,149.67
+4,PNC Bank,bank,South Congress Avenue,44.29
+4,Bank of America,bank,South Congress Avenue,160.23
+4,Klingemann Car Care,car_repair,South Congress Avenue,111.66
+4,Austin Smoke And Vape,tobacco,South Congress Avenue,73.43
+4,Teal House,cafe,South Congress Avenue,24.81
+4,Freddo ATX,restaurant,South Congress Avenue,29.83
+4,H-E-B,supermarket,West Oltorf Street,65.86
+5,The Meteor Bike Shop,bicycle,South Congress Avenue,19.38
+5,Magnolia Cafe,restaurant,West Johanna Street,15.5
+5,,bar,South Congress Avenue,13.77
+5,Prima Dora,clothes,South Congress Avenue,34.37
+5,Get Juicy Roots,fast_food,South Congress Avenue,21.94
+5,Torchy's Tacos,fast_food,West Mary Street,20.14
+5,Bird's Barbershop,hairdresser,West Mary Street,33.04
+5,The Salty,restaurant,West Johanna Street,19.65
+5,WET,hairdresser,South Congress Avenue,29.19
+5,The Meteor Cafe,cafe,South Congress Avenue,28.57
+5,Chase,bank,East Mary Street,22.68
+5,JRD Windshield Repair & Replacement,car_repair,South Congress Avenue,52.54
+3,Bennu Coffee Shop,cafe,South Congress Avenue,172.18
+3,New World Liquor,alcohol,South Congress Avenue,246.75
+3,Thom's Market,convenience,East Riverside Drive,184.51
+3,Ego's,bar,South Congress Avenue,153.0
+3,Howdy Donut,fast_food,South Congress Avenue,256.21
+3,Freebirds,fast_food,South Congress Avenue,111.93
+3,,insurance,South Congress Avenue,262.77
+3,Texas Department of Transportation,government,East Riverside Drive,241.11
+3,Crescent Luxury Apartments,estate_agent,South Congress Avenue,173.98
+3,Traffic Operations Division - Dept. of Transportation,government,South Congress Avenue,334.47
+3,Thundercloud Subs,fast_food,East Riverside Drive,151.56
+3,Wells Fargo,bank,South Congress Avenue,175.76
+3,Taco Joint,restaurant,South Congress Avenue,241.55
+3,Chevron,convenience,South Congress Avenue,205.07

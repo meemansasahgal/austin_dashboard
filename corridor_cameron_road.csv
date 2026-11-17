@@ -1,0 +1,94 @@
+name,category,latitude,longitude,osm_shop,osm_amenity,osm_office,osm_tourism,osm_leisure,osm_craft,osm_healthcare,osm_public_transport,osm_building,osm_brand,osm_operator,osm_website,corridor,major_activity,data_source,retrieved_utc,cluster,nearest_business_m
+,stop position,30.329193500000006,-97.6903713,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,30.097806621937167
+Exxon Tigermart,fuel,30.322391999999997,-97.6938947,,fuel,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,40.91020988022628
+La Palapa,restaurant,30.322176899999988,-97.6932173,,restaurant,,,,,,,,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,29.27460383444908
+,stop position,30.326317399999986,-97.6927666,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,58.88383070125347
+SpinZone Laundry,laundry,30.32018089999999,-97.6953772,laundry,,,,,,,,,,,https://www.spinzonewash.com/,Cameron Road,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,34.12140099450671
+Pizza Hut,restaurant,30.320053500000004,-97.6950538,,restaurant,,,,,,,,Pizza Hut,,https://locations.pizzahut.com/tx/austin/6307a-cameron-rd,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,34.12140099450671
+Dollar Tree,variety store,30.313352200000004,-97.7055403,variety_store,,,,,,,,,Dollar Tree,,,Cameron Road,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,60.30339521506729
+Nomad Bar,bar,30.312516,-97.704829,,bar,,,,,,,,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,31.190901472575472
+Texas Barbell Club,sports centre,30.323163299999997,-97.6949949,,,,,sports_centre,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,31.95877194682086
+Walgreens,pharmacy,30.312583999999998,-97.707217,,pharmacy,,,,,pharmacy,,,Walgreens,,,Cameron Road,Health & care,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,19.229275044619765
+,parking entrance,30.3169851,-97.7020733,,parking_entrance,,,,,,,,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,3,20.786921545736035
+,parking entrance,30.316897000000004,-97.7018823,,parking_entrance,,,,,,,,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,3,20.786921545736035
+Antojitos Hondureños,restaurant,30.33295579999999,-97.685544,,restaurant,,,,,,,,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,42.727925624208815
+,stop position,30.334867099999997,-97.6847819,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,115.45949588048663
+,stop position,30.331483800000004,-97.6870601,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,66.20132822007224
+,stop position,30.329326999999996,-97.69009850000002,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,30.097806621937167
+,stop position,30.32627310000001,-97.6920892,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,54.2713577599495
+,stop position,30.3258326,-97.6918457,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,54.2713577599495
+,stop position,30.331081899999997,-97.687569,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,66.20132822007224
+,stop position,30.322840899999992,-97.69421590000002,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,53.59423316814992
+,stop position,30.319199900000005,-97.6975109,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,39.66660315212421
+,stop position,30.317174299999994,-97.6997618,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,31.425978745528106
+,stop position,30.315442500000003,-97.7019234,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,3,6.97810313052812
+,stop position,30.313233800000003,-97.7047854,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,29.11898751238349
+,stop position,30.311928999999992,-97.7064385,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,104.3517009583803
+,stop position,30.309926899999997,-97.7089493,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,70.96980904188514
+,stop position,30.3111928,-97.7073788,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,20.868335784528583
+,stop position,30.3128809,-97.7052295,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,25.42687214665942
+,stop position,30.315484799999997,-97.7018697,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,3,6.97810313052812
+,stop position,30.3169795,-97.69999900000002,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,31.425978745528106
+,stop position,30.319460100000004,-97.69722820000001,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,2,39.66660315212421
+,stop position,30.323586899999995,-97.6939223,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,30.02116700510631
+,stop position,30.3258256,-97.6925391,,,,,,,,stop_position,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,58.88383070125347
+Sonic,fast food,30.3201418,-97.6971762,,fast_food,,,,,,,,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,2,39.31630329989344
+Busty’s,bar,30.3204419,-97.6969596,,bar,,,,,,,,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,2,26.035715194777396
+,track,30.322876029060506,-97.69223065331366,,,,,track,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,17.72318781387889
+,other,30.324129857184545,-97.69148416447874,,,,,,,,,school,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,30.969258533832466
+Northeast Early College High School,school,30.323865464046527,-97.6915855971398,,school,,,,,,,,,Austin Independent School District,,Cameron Road,Education & culture,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,30.969258533832466
+,parking,30.322628617244394,-97.69639361794745,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,46.40667659651909
+,parking,30.322992530077872,-97.69615692188758,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,46.40667659651909
+,parking,30.32373338981469,-97.69512452073697,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,64.60043805900186
+,parking,30.322489446463052,-97.69529385704305,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,80.2356391392647
+,parking,30.323718160878713,-97.69419562551188,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,30.02116700510631
+,parking,30.323127928766368,-97.69466446666259,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,31.95877194682086
+,parking,30.322312913067282,-97.69347844175839,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,29.27460383444908
+,parking,30.322072420240413,-97.69281103695468,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,40.68838926838647
+,pitch,30.322872901531376,-97.69298765454731,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,63.65756297237188
+,pitch,30.32381972710349,-97.69300536937597,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,65.22360616838722
+,pitch,30.32534205909728,-97.69224490799832,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,60.73077559918717
+,other,30.324666972869345,-97.691107913037,,,,,,,,,school,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,59.346553553322295
+,other,30.325174150470193,-97.6915898584321,,,,,,,,,school,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,35.09524565610707
+,other,30.324868384932824,-97.69168051067916,,,,,,,,,school,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,35.09524565610707
+,other,30.324319626115102,-97.69214747537357,,,,,,,,,school,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,67.07138050191207
+Whataburger,fast food,30.319235700217668,-97.69821161355283,,fast_food,,,,,,,yes,Whataburger,,https://locations.whataburger.com/tx/austin/6106-cameron-rd.html,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,67.37666041059727
+,other,30.31414348222327,-97.70519124787451,,,,,,,,,retail,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,84.50887060321092
+PNC Bank,bank,30.31618686991308,-97.70186082383296,,bank,,,,,,,yes,PNC Bank,,,Cameron Road,Professional & financial services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,3,78.07126183049004
+Walgreens,chemist,30.312736150412867,-97.70731221245715,chemist,,,,,,,,retail,Walgreens,,https://www.walgreens.com/locator/walgreens-5345+n+interstate+35-austin-tx-78723/id=10615,Cameron Road,Retail & shopping,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,19.229275044619765
+McDonald's,fast food,30.313221800208186,-97.70743785031061,,fast_food,,,,,,,yes,McDonald's,,https://www.mcdonalds.com/us/en-us/location/424.html,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,55.33212722814897
+Taco Bell,fast food,30.31411850007149,-97.70402850003101,,fast_food,,,,,,,yes,Taco Bell,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,111.64831671646162
+Cameron Road Church of Christ,place of worship,30.318456474817292,-97.69918409785188,,place_of_worship,,,,,,,yes,,,,Cameron Road,Community & public services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,127.3613588466859
+Shell,fuel,30.313059700041197,-97.7045588000454,,fuel,,,,,,,yes,Shell,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,29.11898751238349
+,other,30.308957318345264,-97.70838534545993,,,,,,,,,retail,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,107.09726153101809
+Texaco,fuel,30.312745230317233,-97.70501627382137,,fuel,,,,,,,yes,Texaco,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,1,25.42687214665942
+Premos Food Mart,fuel,30.311138502083423,-97.70717070591263,,fuel,,,,,,,roof,Valero,,https://locations.valero.com/en-us/LocationDetails/Index/5327-CAMERON-ROAD/0000025230,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,20.868335784528583
+,other,30.331584175695934,-97.68630048067115,,,,,,,,,retail,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,73.75336572976761
+Conoco,fuel,30.328668799900232,-97.69027523888144,,fuel,,,,,,,roof,Conoco,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,59.06795170403378
+,other,30.335921682777407,-97.68628638820606,,,,,,,,,school,,,,Cameron Road,Miscellaneous Retail & Services,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,36.90609892856417
+Wendy's,fast food,30.333730399698418,-97.68706696660915,,fast_food,,,,,,,yes,Wendy's,,https://locations.wendys.com/united-states/tx/austin/1418-e-anderson-lane,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,45.737470174845484
+Shell,fuel,30.333463618592727,-97.68670423001993,,fuel,,,,,,,yes,Shell,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,45.737470174845484
+Lotus Auto Electric,car repair,30.33264540015244,-97.6845353999837,car_repair,,,,,,,,yes,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,68.5128633498012
+Costa Del Sol,restaurant,30.33266816500292,-97.6852487874213,,restaurant,,,,,,,yes,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,42.727925624208815
+,parking,30.328115400099705,-97.68926710000308,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,86.27309540172384
+,parking,30.327351457018413,-97.6894241213487,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,86.27309540172384
+,swimming pool,30.311599358704278,-97.7051037782673,,,,,swimming_pool,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,92.13597711387543
+,swimming pool,30.311059349614116,-97.70583175966274,,,,,swimming_pool,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,92.13597711387543
+Carousel Lounge,bar,30.309908538269113,-97.70821030245173,,bar,,,,,,,,,,,Cameron Road,Food & drink,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,70.96980904188514
+,swimming pool,30.33165924582082,-97.68835436241514,,,,,swimming_pool,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,99.00871620699527
+,swimming pool,30.32587236395022,-97.69424702447195,,,,,swimming_pool,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,150.46123149189924
+,swimming pool,30.315550299913856,-97.70304728994233,,,,,swimming_pool,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,108.54611190433153
+,parking,30.314180586940605,-97.70607057823133,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,84.50887060321092
+,parking,30.320651830845538,-97.6979832692483,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,2,80.99910545343182
+,parking,30.320616451409876,-97.69714039256345,,parking,,,,,,,,,,,Cameron Road,Transport & automotive,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,2,26.035715194777396
+,track,30.323029499999997,-97.6922805,,,,,track,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,17.72318781387889
+,track,30.323332299999997,-97.6933834,,,,,track,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,49.80716176546108
+,track,30.322956399999992,-97.6936656,,,,,track,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,49.80716176546108
+Ascent Academy,school,30.314950073355313,-97.70123226354193,,school,,,,,,,,,,,Cameron Road,Education & culture,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,85.31879282127315
+,pitch,30.335195550891573,-97.68662400002137,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,66.65516473279402
+,pitch,30.334974200077973,-97.68597854990674,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,66.65516473279402
+KIPP Austin Collegiate,school,30.335649224994974,-97.68606677345109,,school,,,,,,,,KIPP,,,Cameron Road,Education & culture,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,-1,36.90609892856417
+,pitch,30.324819850234714,-97.69277076867213,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,13.713364669032297
+,pitch,30.324759050170425,-97.69264646223891,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,13.713364669032297
+,pitch,30.32447005023472,-97.69283246867214,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,13.742909589641226
+,pitch,30.324530250234638,-97.692957518672,,,,,pitch,,,,,,,,Cameron Road,Recreation & fitness,OpenStreetMap via OSMnx,2026-10-29T14:55:33.512479+00:00,0,13.742909589641226

@@ -1,0 +1,2 @@
+corridor_name,road_records,connected_road_components,corridor_length_km,buffer_each_side_m,corridor_area_sq_km,businesses_inside,businesses_outside,unique_business_categories,businesses_per_km
+South Congress Avenue,44,4,1.993,100,0.4174,67,116,23,33.62
